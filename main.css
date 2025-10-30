@@ -62,7 +62,7 @@ a:hover{
 }
 
 /*BREAKPOINT 2!*/
-@media screen and (max-width: 900px) {
+@media screen and (max-width: 720px) {
     *, html, body{
         margin: 0;
         padding: 0;
@@ -78,6 +78,22 @@ a:hover{
 }
 
 /*BREAKPOINT 3!*/
+@media screen and (max-width: 900px) {
+    *, html, body{
+        margin: 0;
+        padding: 0;
+    }
+    body{
+        width: 80%;
+        margin: 0 auto;
+    }
+    h1{
+        font-size: 4em;
+        margin-top: .75em;
+    }
+}
+
+/*BREAKPOINT 4!*/
 @media screen and (max-width: 1367px) {
     *, html, body{
         margin: 0;
