@@ -1,7 +1,7 @@
 # Welcome to A-frame Sandbox
 
 Below you’ll find instructions to copy this repository and set it up for your own experiments.
-# # GitHub → Codespaces → Live Site
+## GitHub → Codespaces → Live Site
 # Setup
 <br>**1** **Login OR Create a GitHub account** (if you don’t have one).
 <br>**2** **Go to the example code ~[repo](https://github.com/sheiva/aframe-example-code)~** (https://github.com/sheiva/aframe-example-code)
