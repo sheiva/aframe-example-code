@@ -10,18 +10,18 @@ Below you’ll find instructions to copy this repository and set it up for your 
 <br>**5** **Upload files** → click **Upload new files** and **drag & drop** all the contents of the ZIP **inside folders** so the structure matches.
 
 ⠀Open in Codespaces
-**1** **Create a Codespace from your repo.**
-2 In Codespaces, open the **Extensions** tab and **download “Live Preview” by Microsoft**.
-**3** **Preview your page**
+<br>**1** **Create a Codespace from your repo.**
+<br>**2** In Codespaces, open the **Extensions** tab and **download “Live Preview” by Microsoft**.
+<br>**3** **Preview your page**
 	* Click the **magnifying-glass Preview button** at the top right.
 	* **OR** right-click the file → **Preview** → **Open in Browser**.
-**4** **Close the blank preview window** in Codespaces if one opens.
+<br>**4** **Close the blank preview window** in Codespaces if one opens.
 
 ⠀Edit & Commit
-1 Open **index.html** and **add your name and description**.
-2 Go to **Source Control** on the left (fork icon).
-**3** **Add a commit comment**, **Commit**, then **Sync changes** to save to your repo.
-**4** **If you get “commit without stages” error**, **add a comment in the commit panel**.
+<br>1 Open **index.html** and **add your name and description**.
+<br>2 Go to **Source Control** on the left (fork icon).
+<br>**3** **Add a commit comment**, **Commit**, then **Sync changes** to save to your repo.
+<br>**4** **If you get “commit without stages” error**, **add a comment in the commit panel**.
 
 ⠀Code Away
 * Continue editing your files as needed.
@@ -33,8 +33,8 @@ Below you’ll find instructions to copy this repository and set it up for your 
 * Go to your **repo** → **Code** → **Codespaces** → **⋯ (three dots)** next to the active Codespace → **Stop**.
 
 ⠀To Submit (Publish & Turn In Link)
-1 Go to your **repo** → **Settings** → **Pages**.
-**2** **Publish page.**
-**3** **Upload your GitHub Pages live link** (the URL) to your One Drive folder.
+<br>1 Go to your **repo** → **Settings** → **Pages**.
+<br>**2** **Publish page.**
+<br>**3** **Upload your GitHub Pages live link** (the URL) to your One Drive folder.
 
-⠀**Upload your Repo link** to your One Drive folder.
+<br>⠀**Upload your Repo link** to your One Drive folder.
