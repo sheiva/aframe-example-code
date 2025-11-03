@@ -4,7 +4,7 @@ Below you’ll find instructions to copy this repository and set it up for your 
 # GitHub → Codespaces → Live Site
 ## Setup
 <br>**1** **Login OR Create a GitHub account** (if you don’t have one).
-<br>**2** **Go to the example code ~[repo](https://github.com/sheiva/aframe-example-code)~** (https://github.com/sheiva/aframe-example-code)
+<br>**2** **Go to the example code [repo](https://github.com/sheiva/aframe-example-code)** (https://github.com/sheiva/aframe-example-code)
 <br>**3** **Download a ZIP** of the example repo.
 <br>**4** **Create a new repo** in your GitHub account named "ImageFall25".
 <br>**5** **Upload files** → click **Upload new files** and **drag & drop** all the contents of the ZIP **inside folders** so the structure matches.
