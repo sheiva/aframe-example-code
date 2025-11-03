@@ -35,6 +35,5 @@ Below you’ll find instructions to copy this repository and set it up for your 
 # To Submit (Publish & Turn In Link)
 <br>1 Go to your **repo** → **Settings** → **Pages**.
 <br>**2** **Publish page.**
-<br>**3** **Upload your GitHub Pages live link** (the URL) to your One Drive folder.
-
-<br>⠀**Upload your Repo link** to your One Drive folder.
+<br>**3** **Upload your GitHub Pages live link** (the URL).
+<br>**4** **Upload your Repo link**.
