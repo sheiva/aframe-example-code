@@ -14,8 +14,9 @@
   <body>
     <!-- STEP 3 ADD THE "EMBEDDED ARJS" TO THE OPENING SCENE TAG: -->
     <a-scene embedded arjs>
+      <!-- Load 3D objects in a-assets as an "a-asset-item" -->
       <a-assets>
-          <a-asset-item id="tree" src="assets/Lowpoly_tree_sample.obj"></a-asset-item>
+          <!-- <a-asset-item id="tree" src="assets/Lowpoly_tree_sample.obj"></a-asset-item> -->
       </a-assets>
 
       <!--  REMOVE OR COMMENT OUT THE SKY: -->
@@ -32,7 +33,9 @@
       <a-marker preset="kanji">
         <!-- here define the content to display on top of the marker -->
         <a-box position="0 0 0" material="color: blue;"></a-box>
-        <a-obj-model src="#tree" position="0 1 0" scale=".02 .02 .02" color="#a9a9a9"></a-obj-model>
+
+        <!-- Example of adding a 3D object in this marker -->
+        <!-- <a-obj-model src="#tree" position="0 1 0" scale=".02 .02 .02" color="#a9a9a9"></a-obj-model> -->
       </a-marker>
       <!-- end of Marker 2       -->
   
