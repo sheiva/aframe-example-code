@@ -1,39 +1,77 @@
-# Welcome to A-frame Sandbox
+1. ### **Setup: GitHub → GitHub Pages → Live Site**
+2. ### **To Edit Your Code: GitHub Desktop → VS Code → Local Preview**
 
-Below you’ll find instructions to copy this repository and set it up for your own experiments.
-# GitHub → Codespaces → Live Site
+**(Text only version of this in the GitHub ReadMe)**
+
 ## Setup
-<br>**1** **Login OR Create a GitHub account** (if you don’t have one).
-<br>**2** **Go to the example code [repo](https://github.com/sheiva/aframe-example-code)** (https://github.com/sheiva/aframe-example-code)
-<br>**3** **Download a ZIP** of the example repo.
-<br>**4** **Create a new repo** in your GitHub account named "ImageFall25".
-<br>**5** **Upload files** → click **Upload new files** and **drag & drop** all the contents of the ZIP **inside folders** so the structure matches.
 
-## Open in Codespaces
-<br>**1** **Create a Codespace from your repo.**
-<br>**2** In Codespaces, open the **Extensions** tab and **download “Live Preview” by Microsoft**.
-<br>**3** **Preview your page**
-	* Click the **magnifying-glass Preview button** at the top right.
-	* **OR** right-click the file → **Preview** → **Open in Browser**.
-<br>**4** **Close the blank preview window** in Codespaces if one opens.
+### Download the Software
 
-## Edit & Commit
-<br>1 Open **index.html** and **add your name and description**.
-<br>2 Go to **Source Control** on the left (fork icon).
-<br>**3** **Add a commit comment**, **Commit**, then **Sync changes** to save to your repo.
-<br>**4** **If you get “commit without stages” error**, **add a comment in the commit panel**.
+1. **Create a GitHub account** if you do not already have one.
+2. **Download and install [GitHub Desktop](https://github.com/apps/desktop?ref_product=desktop&ref_type=engagement&ref_style=button).**  
+   Open GitHub Desktop and sign in with your GitHub account.
+3. **Download and install [Visual Studio Code](https://code.visualstudio.com/download) (VS Code).**
+4. Go to the [example code repo](https://github.com/sheiva/aframe-example-code):  
+   https://github.com/sheiva/aframe-example-code
 
-## Code Away
-* Continue editing your files as needed.
-* **Commit and push** (sync) changes!!!!!
+### Fork the Example Repository
 
-## Stop Your Codespace (Important)!!!!!!!!!!!!!
-* **Stop Codespace!!!!!** It charges after you use **over 120 hours per month**.
-* **Do not just close the tab.**
-* Go to your **repo** → **Code** → **Codespaces** → **⋯ (three dots)** next to the active Codespace → **Stop**.
+1. On the example repo page, click **Fork** in the top right corner.
+2. **Create the fork under your own GitHub account.** This makes your own copy of the example repo that you can edit freely.
 
-# To Submit (Publish & Turn In Link)
-<br>1 Go to your **repo** → **Settings** → **Pages**.
-<br>**2** **Publish page.**
-<br>**3** **Upload your GitHub Pages live link** (the URL).
-<br>**4** **Upload your Repo link**.
+### Publish and Render Your A-Frame Site
+
+1. Go to your forked repository on GitHub in your browser.
+2. Click **Settings → Pages**.
+3. Under **Branch**, select:
+   - Branch: `main`
+   - Folder: `/root`
+4. Click **Save**.
+5. Wait a couple of minutes for GitHub Pages to publish your site.
+6. When you are asked to submit your work, submit:
+   - Your **GitHub Pages live link**
+   - Your **repository link**
+
+![gif9.gif](https://canvas.colorado.edu/courses/133058/files/82257875/preview)
+
+Give it a couple minutes to load..... And then....
+
+![Screenshot 2025-11-03 131101.png](https://canvas.colorado.edu/courses/133058/files/82257874/preview)
+
+## To Edit Your Code
+
+### Clone Your Fork to Your Computer
+
+1. Open **GitHub Desktop**.
+2. Click **File → Clone Repository**.
+3. Select your forked version of the repo from your GitHub account.
+4. Choose where you want the project saved on your computer.
+5. Click **Clone**.
+
+### Open the Project in VS Code
+
+1. In GitHub Desktop, go to: **Repository → Open in Visual Studio Code**.
+2. In VS Code, open the `index.html` file.
+3. Add your name in the `index.html` after "by".
+   - `"webAR experiments in A-frame <b>by __YourName____</b>."`
+
+### Preview Your Page Locally
+
+1. In VS Code, open the **Extensions** tab.
+2. Search for and install **Live Server**.
+3. Right-click `index.html` and choose **Open with Live Server**.
+4. Your page should open in a browser so you can preview it while you work.
+
+### Save, Commit, and Push Changes
+
+As you work, remember to save your files in VS Code.
+
+When you want to save your work to GitHub:
+
+1. Go back to **GitHub Desktop**.
+2. You will see your changed files listed.
+3. Write a commit message describing what you changed.
+4. Click **Commit to main**.
+5. Click **Push origin**.
+
+Keep doing this as you continue editing.
