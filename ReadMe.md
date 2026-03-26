@@ -14,8 +14,7 @@ Below you’ll find instructions to copy this repository and set it up for your 
 2. **Download and install [GitHub Desktop](https://github.com/apps/desktop?ref_product=desktop&ref_type=engagement&ref_style=button).**  
    Open GitHub Desktop and sign in with your GitHub account.
 3. **Download and install [Visual Studio Code](https://code.visualstudio.com/download) (VS Code).**
-4. Go to the [example code repo](https://github.com/sheiva/aframe-example-code):  
-   https://github.com/sheiva/aframe-example-code
+4. Go to the [example code repo](https://github.com/sheiva/aframe-example-code): https://github.com/sheiva/aframe-example-code
 
 ### Fork the Example Repository
 
