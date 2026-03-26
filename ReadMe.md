@@ -1,9 +1,11 @@
 # Welcome to A-frame Sandbox
 
-Below you’ll find instructions to copy this repository and set it up for your own experiments.
+Below you’ll find instructions to copy (fork) this repository and set it up for your own experiments.
 
 ### STEP 01 - **Setup: GitHub → GitHub Pages → Live Site**
 ### STEP 02 -**To Edit Your Code: GitHub Desktop → VS Code → Local Preview**
+
+##
 
 
 ## STEP 01 - Setup (Your Code and Live Site)
