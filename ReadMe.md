@@ -1,3 +1,7 @@
+# Welcome to A-frame Sandbox
+
+Below you’ll find instructions to copy this repository and set it up for your own experiments.
+
 1. ### **Setup: GitHub → GitHub Pages → Live Site**
 2. ### **To Edit Your Code: GitHub Desktop → VS Code → Local Preview**
 
@@ -31,12 +35,7 @@
 6. When you are asked to submit your work, submit:
    - Your **GitHub Pages live link**
    - Your **repository link**
-
-![gif9.gif](https://canvas.colorado.edu/courses/133058/files/82257875/preview)
-
-Give it a couple minutes to load..... And then....
-
-![Screenshot 2025-11-03 131101.png](https://canvas.colorado.edu/courses/133058/files/82257874/preview)
+   
 
 ## To Edit Your Code
 
