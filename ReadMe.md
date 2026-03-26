@@ -59,8 +59,8 @@ Below you’ll find instructions to copy (fork) this repository and set it up fo
 ### Preview Your Page Locally
 
 1. In VS Code, open the **Extensions** tab.
-2. Search for and install **Live Server**.
-3. Right-click `index.html` and choose **Open with Live Server**.
+2. Search for and install **Live Preview** by Microsoft.
+3. Right-click `index.html` and choose **Open with Live Preview**.
 4. Your page should open in a browser so you can preview it while you work.
 
 ### Save, Commit, and Push Changes
