@@ -6,15 +6,10 @@ Below you’ll find instructions to copy this repository and set it up for your 
 2. ### **To Edit Your Code: GitHub Desktop → VS Code → Local Preview**
 
 
-## Setup
-
-### Download the Software
+## 01 - Setup (Your Code and Live Site)
 
 1. **Create a GitHub account** if you do not already have one.
-2. **Download and install [GitHub Desktop](https://github.com/apps/desktop?ref_product=desktop&ref_type=engagement&ref_style=button).**  
-   Open GitHub Desktop and sign in with your GitHub account.
-3. **Download and install [Visual Studio Code](https://code.visualstudio.com/download) (VS Code).**
-4. Go to the [Example Code Repo](https://github.com/sheiva/aframe-example-code): https://github.com/sheiva/aframe-example-code
+2. Go to the [Example Code Repo](https://github.com/sheiva/aframe-example-code): https://github.com/sheiva/aframe-example-code
 
 ### Fork the Example Repository
 
@@ -33,9 +28,16 @@ Below you’ll find instructions to copy this repository and set it up for your 
 6. When you are asked to submit your work, submit:
    - Your **GitHub Pages live link**
    - Your **repository link**
-   
 
-## To Edit Your Code
+
+## 02 - To Edit Your Code
+
+### Download the Software
+
+1. **Download and install [GitHub Desktop](https://github.com/apps/desktop?ref_product=desktop&ref_type=engagement&ref_style=button).**  
+   Open GitHub Desktop and sign in with your GitHub account.
+2. **Download and install [Visual Studio Code](https://code.visualstudio.com/download) (VS Code).**
+   
 
 ### Clone Your Fork to Your Computer
 
