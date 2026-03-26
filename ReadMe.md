@@ -2,11 +2,11 @@
 
 Below you’ll find instructions to copy this repository and set it up for your own experiments.
 
-1. ### **Setup: GitHub → GitHub Pages → Live Site**
-2. ### **To Edit Your Code: GitHub Desktop → VS Code → Local Preview**
+### STEP 01 - **Setup: GitHub → GitHub Pages → Live Site**
+### STEP 02 -**To Edit Your Code: GitHub Desktop → VS Code → Local Preview**
 
 
-## 01 - Setup (Your Code and Live Site)
+## STEP 01 - Setup (Your Code and Live Site)
 
 1. **Create a GitHub account** if you do not already have one.
 2. Go to the [Example Code Repo](https://github.com/sheiva/aframe-example-code): https://github.com/sheiva/aframe-example-code
@@ -30,7 +30,7 @@ Below you’ll find instructions to copy this repository and set it up for your 
    - Your **repository link**
 
 
-## 02 - To Edit Your Code
+## STEP 02 - To Edit Your Code
 
 ### Download the Software
 
