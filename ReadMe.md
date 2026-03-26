@@ -5,7 +5,6 @@ Below you’ll find instructions to copy this repository and set it up for your 
 1. ### **Setup: GitHub → GitHub Pages → Live Site**
 2. ### **To Edit Your Code: GitHub Desktop → VS Code → Local Preview**
 
-**(Text only version of this in the GitHub ReadMe)**
 
 ## Setup
 
