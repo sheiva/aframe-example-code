@@ -2,7 +2,7 @@
 
 Below you’ll find instructions to copy (fork) this repository and set it up for your own experiments.
 
-<span style="color:red">PLEASE USE THE NEW UPDATED REPO @ https://github.com/sheiva/aframe-starter-pack</span>
+<span style="color:red">PLEASE USE THE NEW UPDATED REPO @ [AFrame Starter Pack Repo](https://github.com/sheiva/aframe-starter-pack)</span>
 
 ### STEP 01 - **Setup: GitHub → GitHub Pages → Live Site**
 ### STEP 02 -**To Edit Your Code: GitHub Desktop → VS Code → Local Preview**
